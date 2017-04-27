@@ -1,0 +1,3 @@
+﻿
+Dudas:
+	Detección cercanía/colisión? radio/distancia? collider?

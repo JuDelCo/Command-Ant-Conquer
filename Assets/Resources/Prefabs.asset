@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfe0ca1f50777614db32931d8b17dccd, type: 3}
+  m_Name: Prefabs
+  m_EditorClassIdentifier: 
+  playerPrefab: {fileID: 1872651321613276, guid: 2498ad7aa2ecf564a8093387ac21ae07,
+    type: 2}
+  soldierPrefab: {fileID: 1632893710080372, guid: 54dff19aac19a194c83d3b1e6c065fd7,
+    type: 2}
+  soldierEggPrefab: {fileID: 1649966384044518, guid: 2cc2c78ec17ee9642b194ef5d9a4b331,
+    type: 2}
+  lairPrefab: {fileID: 1269595887315716, guid: 27321a9d1899ea24fb5e535974d9406d, type: 2}
+  foodPilePrefab: {fileID: 1198394400614204, guid: 0f28ac50344c65349b1590ca9695812e,
+    type: 2}
+  foodUnitPrefab: {fileID: 1178003981209678, guid: 102e307ec450e854185c0db26de00773,
+    type: 2}
